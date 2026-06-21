@@ -1,0 +1,169 @@
+[33md06461f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m Remove Stripe secret key
+[33m33789f2[m added customer service images and fixed backend
+[33m9cc48cb[m Merge pull request #36 from rohity20/master
+[33m182901d[m backend issue resolve
+[33m08e322b[m test comment
+[33m16f87fd[m updated
+[33m910bd5b[m updated readme
+[33m68b7a02[m Update README.md
+[33m2f1a6d7[m Merge branch 'master' of https://github.com/nitansh11/redbus
+[33m069d4be[m added new google credentails
+[33mc36ffa1[m updated readme
+[33mdef3e4c[m deployment done
+[33m4fe5688[m fixed bus hire bugs
+[33m0656576[m fixed redbus backend stripe bug
+[33m9904234[m Update README.md
+[33m857d04b[m Update README.md
+[33mb972500[m small changes in backend server.js and frontend payment page
+[33ma1943dd[m modified profile page and my trips page
+[33ma28277c[m polished few pages
+[33mbbee829[m polished few pages
+[33mcc00ea0[m Update README.md
+[33mc1a6764[m Update README.md
+[33mc4677d4[m Update README.md
+[33m02d9001[m Add files via upload
+[33m17c56c4[m Update README.md
+[33m1469941[m final changes in bus service section
+[33m67c8770[m Update README.md
+[33m10cc35d[m updated  bus page
+[33m181aa77[m Updated bus hire page details
+[33m8f20e4d[m Merge branch 'master' of https://github.com/nitansh11/redbus
+[33m3439e45[m added images
+[33me66d9d9[m Update README.md
+[33mc200cfc[m Merge branch 'master' of https://github.com/nitansh11/redbus
+[33m95f3b74[m fixed sorting bug
+[33mf4261fb[m Update README.md
+[33mb8c6778[m added
+[33m5f0213e[m Merge pull request #33 from nitansh11/bus-hire-nit
+[33m789deb9[m bus hire resolved
+[33md1f4351[m Merge branch 'master' of https://github.com/nitansh11/redbus
+[33mc27023b[m added project samples
+[33m4df99e3[m added bus hire
+[33m8d85121[m Merge pull request #32 from nitansh11/persistent
+[33m89df2d3[m cooming soon banner
+[33m0e76421[m Delete testbooking.js
+[33m829c23d[m Delete test.js
+[33m288e95c[m Delete routes.json
+[33m2e8eacb[m Delete allBus.json
+[33ma02a42b[m Delete ignore directory
+[33m7902fd3[m Delete allBookings.json
+[33m81cfefb[m removed redundant files
+[33maf3c7e7[m Merge pull request #31 from nitansh11/bus-hire-nit
+[33m1d3506c[m Merge branch 'master' of https://github.com/nitansh11/redbus into bus-hire-nit
+[33md3e5237[m added
+[33m03c8b4b[m Merge pull request #30 from nitansh11/bus-hire-nit
+[33mcce951a[m add
+[33m108d254[m added data
+[33m0301670[m Merge branch 'master' of https://github.com/nitansh11/redbus into bus-hire-nit
+[33m20c016c[m data
+[33m09f9bb0[m modified my trips component
+[33m04520c3[m Merge pull request #29 from nitansh11/bus-hire-nit
+[33m6a1ff56[m added bus hire
+[33m0ced0dc[m Merge branch 'master' of https://github.com/nitansh11/redbus
+[33m65d08fb[m fixed css
+[33me038675[m Merge pull request #28 from nitansh11/my-trips-ui
+[33m61cf550[m conflict
+[33m0bddd18[m added my trips page
+[33m833079e[m conflicts resolved
+[33m01bf0c3[m fixed css position bug
+[33m23aa7f5[m modified landng page
+[33m251ac05[m Merge branch 'master' of https://github.com/nitansh11/redbus
+[33m71a54e8[m fixed departure date bug
+[33mdc8499e[m added
+[33m1cd3244[m added booking into tables
+[33m8c561c4[m Merge pull request #27 from nitansh11/rohan
+[33m150b631[m Merge branch 'master' into rohan
+[33ma3e9d1c[m Bus service card redux
+[33mf3614de[m Merge branch 'master' of https://github.com/nitansh11/redbus
+[33m46e1057[m modified bus hire page and landing page
+[33md72e764[m fixed operator bug
+[33mdab778e[m debug departure
+[33mf3d7a0d[m Merge pull request #26 from nitansh11/my-trips
+[33m034bb7d[m conflict
+[33m05769c6[m added my trips
+[33m32d0111[m Merge pull request #25 from nitansh11/PassengerForm
+[33m7ded239[m payment and passenger form done
+[33mf187ad1[m Redux passenger input form Completed
+[33mf2a7ee6[m added
+[33m4c93f84[m Merge pull request #24 from nitansh11/archana
+[33m6583120[m resolved conflicts
+[33m9a0b228[m added sub footer
+[33maf856f9[m Merge pull request #23 from nitansh11/ReduxImplementation
+[33m63b4d04[m fixed conflicts
+[33ma7ec362[m done with filtering and sorting
+[33m6310f13[m Merge pull request #22 from nitansh11/stripe-payment
+[33m04e2f2b[m Merge branch 'master' of https://github.com/nitansh11/redbus into stripe-payment
+[33maaf6a38[m added stripe payment gateway
+[33mbb7caf5[m Merge pull request #21 from nitansh11/rohan
+[33m147c3ac[m Bus service card
+[33m7d3a455[m done till passenger list
+[33mcf5e3ee[m Merge pull request #20 from nitansh11/stripe-payment
+[33m46a024a[m routes
+[33m084106e[m Merge pull request #19 from nitansh11/landing-page-search
+[33m4190b67[m added dropdown search feature
+[33m6312fb2[m Merge branch 'master' of https://github.com/nitansh11/redbus
+[33m082e465[m added faq section in bus hire page
+[33mcb6c19c[m added bus Hire page
+[33maa7c4b2[m Merge pull request #18 from nitansh11/archana
+[33mb1e32d4[m conflicts resolved
+[33m09c3a51[m mater commits
+[33me403ebb[m Merge branch 'master' of https://github.com/nitansh11/redbus into archana
+[33ma425304[m Merge pull request #17 from nitansh11/ReduxImplementation
+[33mb4ece1d[m Merge pull request #16 from nitansh11/landing-page-search
+[33md303507[m minot
+[33mbf5b043[m Connected Payment page
+[33mdd16cba[m Fixed Bugs in seat selection process
+[33m9530f9c[m merged successfully
+[33mbfcb5c0[m modified bus hire with different containers
+[33mc386c33[m added uselocation
+[33mc517cd6[m Merge pull request #15 from nitansh11/google-auth
+[33m742fc1f[m added
+[33m4cf0cde[m added query params
+[33mfd4edfd[m added seat selection
+[33m506256f[m added bus hire main page , bus trip-type form , bus hire form
+[33mbefc9a6[m Merge pull request #14 from nitansh11/google-auth
+[33m3c17675[m added backend route
+[33m58b7fc4[m added google-auth
+[33mfc9ac47[m Merge pull request #13 from nitansh11/rohan
+[33m31b50f9[m landing page
+[33m7729c2a[m Merge pull request #12 from nitansh11/google-auth
+[33mf666fe9[m redux
+[33ma6d68c6[m Merge pull request #11 from nitansh11/ViewSeats
+[33maf6f9c5[m added boarding and dropping points
+[33m6df642c[m Merge pull request #10 from nitansh11/google-auth
+[33m00d75f0[m added customers to db
+[33me03327e[m Merge pull request #9 from nitansh11/google-auth
+[33meeff5d3[m added google auth
+[33m945b926[m Merge pull request #8 from nitansh11/ViewSeats
+[33m1204cfe[m added sorting bar
+[33m440d8d9[m created sorting bar
+[33m89951fd[m modified git ignore file
+[33me6a7662[m Merge pull request #7 from nitansh11/ViewSeats
+[33mfb42362[m Seat mapping done
+[33m5a64f97[m Merge pull request #6 from nitansh11/archana
+[33m17167fe[m modified navbar dropdown
+[33mbb44571[m modified navbar dropdowns
+[33m1d55807[m added getAllRoutes route
+[33m38ec098[m fix some things
+[33m2c2b917[m Merge branch 'master' of https://github.com/nitansh11/redbus
+[33mf28217b[m Merge pull request #5 from nitansh11/uditanshu
+[33mde59523[m added routes
+[33m9643ea0[m Bus box
+[33m2a6ccdb[m Merge pull request #4 from nitansh11/archana
+[33m7870b23[m resolved conflicts
+[33m68b6993[m added profile page
+[33mf45b1c0[m Merge pull request #3 from nitansh11/select-bus
+[33madf6c49[m Captured values for bus filters
+[33mb816657[m Merge pull request #2 from nitansh11/schema-creation
+[33m9728dc1[m Contructed backend MVC structure
+[33me6985af[m modified navbar with material ui contents
+[33m9e2df90[m Merge pull request #1 from nitansh11/select-bus
+[33m8a1f33e[m added some filters
+[33mad24db3[m modified booking form
+[33mfb2cbb1[m created bus booking form
+[33md86bcf0[m created payment page ui
+[33m2bfa145[m Basic Component Added
+[33mfb9db29[m Merge branch 'master' of https://github.com/nitansh11/redbus
+[33me2d08ad[m created project structure
+[33m4534a19[m Create README.md
+[33m7abf36d[m Added backend and frontend folder
